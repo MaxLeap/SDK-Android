@@ -1,3 +1,5 @@
+2015-12-14  Release v0.9.1
+- Add sms code verfication.
 
 2015-12-02  Release v0.9.0
 - Add LPNS service.
