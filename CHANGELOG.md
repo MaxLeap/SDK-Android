@@ -1,3 +1,7 @@
+2015-12-28  Release v0.9.2
+- Add automatic anonymous user.
+- Add timeline events.
+
 2015-12-14  Release v0.9.1
 - Add sms code verfication.
 
