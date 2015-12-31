@@ -1,3 +1,6 @@
+2015-12-31  Release v0.9.3
+- Fix some bugs.
+
 2015-12-28  Release v0.9.2
 - Add automatic anonymous user.
 - Add timeline events.
