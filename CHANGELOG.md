@@ -1,3 +1,6 @@
+2015-01-06  Release v0.9.4
+- Fix proguard problems.
+
 2015-12-31  Release v0.9.3
 - Fix some bugs.
 
