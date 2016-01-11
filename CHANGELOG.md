@@ -1,3 +1,6 @@
+2015-01-11  Release v0.9.5
+- Add AliPay.
+
 2015-01-06  Release v0.9.4
 - Fix proguard problems.
 
