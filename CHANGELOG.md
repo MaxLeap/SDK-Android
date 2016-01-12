@@ -1,3 +1,6 @@
+2015-01-12  Release v0.9.6
+- Update MaxPay.
+
 2015-01-11  Release v0.9.5
 - Add AliPay.
 
