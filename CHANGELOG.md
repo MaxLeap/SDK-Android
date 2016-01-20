@@ -1,3 +1,6 @@
+2015-01-20  Release v0.9.7
+- Add WechatPay.
+
 2015-01-12  Release v0.9.6
 - Update MaxPay.
 
