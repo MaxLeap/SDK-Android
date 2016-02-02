@@ -1,3 +1,7 @@
+2015-02-02  Release v0.9.8
+- Add init support by manifest.
+- Fix some bugs.
+
 2015-01-20  Release v0.9.7
 - Add WechatPay.
 
