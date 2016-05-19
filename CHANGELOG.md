@@ -1,14 +1,17 @@
-2015-02-02  Release v0.9.8
+2016-05-19  Release v0.9.9
+- Remove unused code.
+
+2016-02-02  Release v0.9.8
 - Add init support by manifest.
 - Fix some bugs.
 
-2015-01-20  Release v0.9.7
+2016-01-20  Release v0.9.7
 - Add WechatPay.
 
-2015-01-12  Release v0.9.6
+2016-01-12  Release v0.9.6
 - Update MaxPay.
 
-2015-01-11  Release v0.9.5
+2016-01-11  Release v0.9.5
 - Add AliPay.
 
 2015-01-06  Release v0.9.4
