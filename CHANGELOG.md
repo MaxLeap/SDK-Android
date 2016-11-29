@@ -1,3 +1,6 @@
+2016-11-29  Release v1.0.4
+- Release 
+
 2016-11-29  Release v1.0.3
 - Fix Http Timeout config.
 
