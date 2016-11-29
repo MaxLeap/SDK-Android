@@ -1,3 +1,6 @@
+2016-11-29  Release v1.0.3
+- Fix Http Timeout config.
+
 2016-05-19  Release v0.9.9
 - Remove unused code.
 
