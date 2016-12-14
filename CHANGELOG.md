@@ -1,3 +1,6 @@
+2016-12-14  Herms Release v0.0.7
+- Release 
+
 2016-11-29  Release v1.0.4
 - Release 
 
