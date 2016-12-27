@@ -1,6 +1,6 @@
 2016-12-27 Herms Release v0.0.9
 - fix sdk share error callback
-Release
+- Release
 
 2016-12-14  Herms Release v0.0.7
 - Release 
